@@ -1,0 +1,7 @@
+class saludo 
+{
+public static void main(String[])
+  {
+    String.out.print("Matame")
+  }
+}
